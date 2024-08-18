@@ -10,5 +10,5 @@ const IngredientList = ({ availableIngredients, addIngredientToStack }) => {
       </ul>
     );
   };
-  
+  //
   export default IngredientList;
