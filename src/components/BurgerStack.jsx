@@ -14,5 +14,5 @@ const BurgerStack = ({ stack, removeIngredientFromStack }) => {
       </ul>
     );
   };
-  
+  //
   export default BurgerStack;
